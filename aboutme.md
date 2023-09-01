@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Jimin Han
+subtitle: A flexible yet tenacious social psychology researcher
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jimin Han. I have the following interests:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- What motivates people to commit to community-based behaviors such as actions for social-justice/equality and cooperation? 
+- Why do people help others?
 
-What else do you need?
 
 ### My story
 
